@@ -1,5 +1,0 @@
-scikit-learn
-termcolor
-terminaltables
-pyedflib
-gdown
